@@ -23,7 +23,7 @@ export const projects: Project[] = [
     id: 2,
     title: "Multi-Category Catalog",
     description:
-      "End-to-end billing and invoicing system with modules for products, purchases, vendors, and sales returns. Implemented PDF/Excel generation and automated email forwarding for report sharing. Features secure authentication and responsive UI.",
+      "I built this application using Next.js 14 with React 18, which helped in creating a structured and scalable frontend with built-in routing. I used plain CSS for styling to have full control over the layout and match the required design closely. For icons, I used the lucide-react library as it is lightweight and clean.",
     image:
       "/images/multi.png",
     technologies: ["Node.js", "Express.js", "MongoDB", "React.js", "Tailwind CSS", "Next.js"],

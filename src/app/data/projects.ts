@@ -21,7 +21,7 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    title: "Multi-Category Catalogs",
+    title: "Multi-Category Catalog",
     description:
       "I built this application using Next.js 14 with React 18, which helped in creating a structured and scalable frontend with built-in routing. I used plain CSS for styling to have full control over the layout and match the required design closely. For icons, I used the lucide-react library as it is lightweight and clean.",
     image:
